@@ -96,7 +96,7 @@ Multilingual Table Detection Dataset
 
 |  #  | Name        | Page |
 |:---:|:------------|:-----:|
-|  1  | [Hi_Cir_01.png](https://finance.mp.gov.in/uploads/files/DR_%E0%A4%AA%E0%A5%87%E0%A4%82%E0%A4%B7%E0%A4%A8%E0%A4%B0%E0%A5%8B%E0%A4%82_%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0_%E0%A4%AA%E0%A5%87%E0%A4%82%E0%A4%B7%E0%A4%A8%E0%A4%B0%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%8B_%E0%A4%AE%E0%A4%82%E0%A4%B9%E0%A4%97%E0%A4%BE%E0%A4%88_%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A4%A4.pdf) |  1  |
+|  1  | [Hi_Cir_01.png](https://finance.mp.gov.in/uploads/files/DR_%E0%A4%AA%E0%A5%87%E0%A4%82%E0%A4%B6%E0%A4%A8%E0%A4%B0%E0%A5%8B%E0%A4%82_%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0_%E0%A4%AA%E0%A5%87%E0%A4%82%E0%A4%B6%E0%A4%A8%E0%A4%B0%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%8B_%E0%A4%AE%E0%A4%82%E0%A4%B9%E0%A4%97%E0%A4%BE%E0%A4%88_%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A4%A4.pdf) |  1  |
 |  2  | [Hi_Cir_02.png](https://rajbhasha.gov.in/sites/default/files/impl2_17nov_2022_2.pdf)                                               |  1  |
 |  3  | [Hi_Cir_03.png](http://uptransport.upsdc.gov.in/Portals/0/DocScanner%2006-Feb-2023%2017-17.pdf)                                    |  1  |
 |  4  | [Hi_Cir_04.png](http://uptransport.upsdc.gov.in/Portals/0/DocScanner%2006-Feb-2023%2017-17.pdf)                                    |  3  |
