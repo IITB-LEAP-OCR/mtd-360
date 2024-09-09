@@ -123,3 +123,77 @@ Multilingual Table Detection Dataset
 | 25  | [Hi_Cir_12.png](https://documents.doptcirculars.nic.in/D2/D02adm/revision.pdf)                                                        |  1  |
 
 
+## Sanskrit
+
+| Sr. No.|   Name    |                           Source                                                                         | Page no. |
+|:--:|:-------------:|:--------------------------------------------------------------------------------------------------------:|:--:|
+|  1 | Sa_Txt_01.png |                                  NCERT Sanskrit (Ruchira) Books Class 6                                  |  1 |
+|  2 | Sa_Txt_02.png |                                  NCERT Sanskrit (Ruchira) Books Class 6                                  |  5 |
+|  3 | Sa_Txt_03.png | https://www.ktbs.kar.nic.in/New/website%20textbooks/class10/10th%20standard/10th-language-sanskrit-1.pdf | 20 |
+|  4 | Sa_Txt_04.png | https://www.ktbs.kar.nic.in/New/website%20textbooks/class10/10th%20standard/10th-language-sanskrit-1.pdf | 66 |
+|  5 | Sa_Txt_05.png | https://www.ktbs.kar.nic.in/New/website%20textbooks/class10/10th%20standard/10th-language-sanskrit-1.pdf | 67 |
+|  6 | Sa_Txt_06.png | https://www.ktbs.kar.nic.in/New/website%20textbooks/class10/10th%20standard/10th-language-sanskrit-1.pdf | 68 |
+|  7 | Sa_Txt_07.png | https://www.ktbs.kar.nic.in/New/website%20textbooks/class10/10th%20standard/10th-language-sanskrit-1.pdf | 78 |
+|  8 | Sa_Txt_08.png |                                      8th-Standard Sanskrit Textbook                                      | 15 |
+|  9 | Sa_Txt_09.png |                                      8th-Standard Sanskrit Textbook                                      | 20 |
+| 10 | Sa_Txt_10.png |                                      8th-Standard Sanskrit Textbook                                      | 25 |
+| 11 | Sa_Txt_11.png |                                      8th-Standard Sanskrit Textbook                                      | 26 |
+| 12 | Sa_Txt_12.png |                                      8th-Standard Sanskrit Textbook                                      | 28 |
+| 13 | Sa_Cir_01.png |   https://upsanskritsansthanam.in/site/writereaddata/UploadGovermentOrder/pdf/C_201809221305503896.pdf   |  4 |
+| 14 | Sa_Cir_02.png |   https://upsanskritsansthanam.in/site/writereaddata/UploadGovermentOrder/pdf/C_201809221305503896.pdf   |  3 |
+| 15 | Sa_Txt_13.png |  https://ia904703.us.archive.org/35/items/in.ernet.dli.2015.347520/2015.347520.Bhavprakash-Nighantu.pdf  |  7 |
+| 16 | Sa_Txt_14.png |                               https://ncert.nic.in/textbook.php?jhva1=0-14                               |  6 |
+| 17 | Sa_Txt_15.png |                               https://ncert.nic.in/textbook.php?jhva1=0-14                               |  7 |
+| 18 | Sa_Txt_16.png |                                      8th-Standard Sanskrit Textbook                                      | 32 |
+| 19 | Sa_Txt_17.png |                                      8th-Standard Sanskrit Textbook                                      | 33 |
+| 20 | Sa_Txt_18.png |                                      8th-Standard Sanskrit Textbook                                      | 41 |
+| 21 | Sa_Txt_19.png |                                      8th-Standard Sanskrit Textbook                                      | 42 |
+| 22 | Sa_Txt_20.png |                                      8th-Standard Sanskrit Textbook                                      | 46 |
+| 23 | Sa_Txt_21.png |            https://freehomedelivery.net/wp-content/uploads/2016/12/NCERT-Class-7-Sanskrit.pdf            | 86 |
+| 24 | Sa_Txt_22.png |                                      8th-Standard Sanskrit Textbook                                      | 46 |
+| 25 | Sa_Txt_23.png |                                      8th-Standard Sanskrit Textbook                                      | 50 |
+
+## Urdu
+
+| Sr. No.|   Name    |    Source                  | Page no. |
+|:--:|:-------------:|:--------------------------:|:--:|
+|  1 | Ur_Txt_01.png |      ३ री बालभारती उर्दु     | 75 |
+|  2 | Ur_Txt_02.png |      ३ री बालभारती उर्दु     | 65 |
+|  3 | Ur_Txt_03.png | ४ थी परिसर अभ्यास भाग-2 उर्दु | 80 |
+|  4 | Ur_Txt_04.png | ४ थी परिसर अभ्यास भाग-2 उर्दु | 87 |
+|  5 | Ur_Txt_05.png |      ३ री बालभारती उर्दु     | 60 |
+|  6 | Ur_Txt_06.png |        ५ वी गणित उर्दु       | 12 |
+|  7 | Ur_Txt_07.png |        ५ वी गणित उर्दु       | 13 |
+|  8 | Ur_Txt_08.png |        ५ वी गणित उर्दु       | 16 |
+|  9 | Ur_Txt_09.png |        ५ वी गणित उर्दु       | 19 |
+| 10 | Ur_Txt_10.png |        ५ वी गणित उर्दु       | 63 |
+
+## Bengali
+
+| Sr. No.|   Name    |    Source                  | Page no. |
+|:--:|:-------------:|:---------------:|:--:|
+|  1 | Bn_Txt_01.png | ६ वी भूगोल बंगाली | 20 |
+|  2 | Bn_Txt_02.png | ६ वी भूगोल बंगाली | 30 |
+|  3 | Bn_Txt_03.png | ६ वी भूगोल बंगाली | 32 |
+|  4 | Bn_Txt_04.png | ६ वी भूगोल बंगाली | 42 |
+|  5 | Bn_Txt_05.png | ६ वी भूगोल बंगाली | 45 |
+|  6 | Bn_Txt_06.png | ६ वी गणित बंगाली | 25 |
+|  7 | Bn_Txt_07.png | ६ वी गणित बंगाली | 39 |
+|  8 | Bn_Txt_08.png | ६ वी गणित बंगाली | 40 |
+|  9 | Bn_Txt_09.png | ६ वी गणित बंगाली | 47 |
+| 10 | Bn_Txt_10.png | ६ वी गणित बंगाली | 48 |
+
+## Telugu
+
+|  1 | Te_Txt_01.png |          ४ थी गणित तेलुगु         |  16 |
+|:--:|:-------------:|:------------------------------:|:---:|
+|  2 | Te_Txt_02.png |          ४ थी गणित तेलुगु         |  17 |
+|  3 | Te_Txt_03.png |          ४ थी गणित तेलुगु         |  18 |
+|  4 | Te_Txt_04.png |          ४ थी गणित तेलुगु         |  20 |
+|  5 | Te_Txt_05.png |          ४ थी गणित तेलुगु         |  25 |
+|  6 | Te_Txt_06.png |          ४ थी गणित तेलुगु         |  31 |
+|  7 | Te_Txt_07.png |      ५ वी खेळू, करू, शिकू तेलुगु      |  15 |
+|  8 | Te_Txt_08.png |      ५ वी खेळू, करू, शिकू तेलुगु      |  53 |
+|  9 | Te_Txt_09.png | १० वी सायन्स ऍन्ड टेक्नॉलॉजी भाग-२ | 129 |
+| 10 | Te_Txt_09.png | १० वी सायन्स ऍन्ड टेक्नॉलॉजी भाग-२ | 109 |
+
