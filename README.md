@@ -1,5 +1,4 @@
-# mtd_dataset
-Multilingual Table Detection Dataset
+# Multilingual Table Detection (MTD-360)
 'data' folder has 360 document images
 'data/annotations.json' contains bboxes in COCO format
 
